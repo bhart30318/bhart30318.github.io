@@ -9,21 +9,38 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+<!DOCTYPE html>
+<html lang = "en">
 
-# Header 1
-## Header 2
-### Header 3
+<head>
+    <meta charset = "UTF-8">
+    <title>Bruce Hart's Bio</title>
+ </head>
+<h1>Bruce Hart</h1>
+<p>
+    <a href="https://placeholder.com"><img src="http://via.placeholder.com/350x150"></a>
+    <br>
+    This will hold as a bio summary paragraph.
+    <br>
+    This will hold as a bio summary paragraph (2).
+    <br>
 
-- Bulleted
-- List
+</p>
+<h2>Social Media Links</h2>
+<p>
+    Please see below for links to my some of my social media links.
+    <ul><code>
+        &lt;ul&gt;<br>
+        &nbsp;&nbsp;&lt;li&gt; Linkedin:  <a href = "https://www.linkedin.com/in/bruce-hart-661a20167/"></a>&lt;/li&gt;<br>
+        &nbsp;&nbsp;&lt;li&gt; Github: <a href = "https://github.com/bhart30318"></a>&lt;/li&gt;<br>
+        &lt;/ul&gt;<br>
+      </code>
+    </ul>
+</p>
 
-1. Numbered
-2. List
+</html>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
