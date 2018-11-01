@@ -41,6 +41,49 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </html>
 
 
+<<<<<<< HEAD
+=======
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+    <meta charset = "UTF-8">
+    <title>Bruce Hart's Bio</title>
+ </head>
+<h1>Bruce Hart</h1>
+<p>
+    <a href="https://placeholder.com"><img src="http://via.placeholder.com/350x150"></a>
+    <br>
+    This will hold as a bio summary paragraph.
+    <br>
+    This will hold as a bio summary paragraph (2).
+    <br>
+
+</p>
+<h2>Social Media Links</h2>
+<p>
+    Please see below for links to my some of my social media links.
+    <ul><code>
+        &lt;ul&gt;<br>
+        &nbsp;&nbsp;&lt;li&gt; Linkedin:  <a href = "https://www.linkedin.com/in/bruce-hart-661a20167/"></a>&lt;/li&gt;<br>
+        &nbsp;&nbsp;&lt;li&gt; Github: <a href = "https://github.com/bhart30318"></a>&lt;/li&gt;<br>
+        &lt;/ul&gt;<br>
+      </code>
+    </ul>
+</p>
+
+</html>
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+>>>>>>> a7274769ded8b2e79283051ff53f41a100029367
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
